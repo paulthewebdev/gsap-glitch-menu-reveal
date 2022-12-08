@@ -1,0 +1,8 @@
+@font-face {
+    font-family: AdeDisplay;
+    src: url("./fonts/Ade-Display.otf") format("opentype");
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
